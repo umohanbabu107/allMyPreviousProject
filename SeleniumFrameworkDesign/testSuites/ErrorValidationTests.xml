@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Suite">
+	<groups>
+		<run>
+			<include name="ErrorHandling"/>
+		</run>
+	</groups>
+  <test thread-count = "5" name="Submit order tests">
+    <classes>
+      <!--class name="mohanTestingAcedamy.tests.SubmitOrderTest"/ -->
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count = "5" name="Error Validation tests">
+  	<classes>
+  	 <class name="mohanTestingAcedamy.tests.ErrorValidationsTest"/>
+  	</classes>
+  </test>
+</suite> <!-- Suite -->

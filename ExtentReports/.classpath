@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/TestNGJar/testng-7.7.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Excelr_TestNG_Concepts"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ExcelrClasses"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GitPractice-M1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Locators"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Mohan_project1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Selenium_Mini_Project"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SeleniumFrameworkDesign"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TestngBasics3"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TestngPractice"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
